@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "description": "A hello world Express.js app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzkxaa/express-1.git"
+  },
+  "author": "Rizkika Ramadhanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzkxaa/express-1/issues"
+  },
+  "homepage": "https://github.com/rzkxaa/express-1#readme"
+}
